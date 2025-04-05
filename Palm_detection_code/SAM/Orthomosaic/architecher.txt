@@ -1,0 +1,8 @@
+predict.py
+images
+   |--site{i}
+	 |     |--{site_name}.tif
+   |--site{i}
+   |     |--{site_name}.tif
+{model_name}results
+	 |--predictions_{site_name}_{model_name}.csv

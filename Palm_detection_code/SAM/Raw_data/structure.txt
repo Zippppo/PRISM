@@ -1,0 +1,7 @@
+images
+|	|--img1.png
+|	|--img2.png
+|	...
+pre.py
+nms.py
+segment.py
