@@ -5,7 +5,7 @@
 * **[2025-04-28]** 🎉 Our paper, "Detection and Geographic Localization of Natural Objects in the Wild: A Case Study on Palms," has been accepted by IJCAI 2025! We are thrilled to share our work with the community. 🥳
 
 ## Overview
-This repository contains a comprehensive system for palm tree detection, segmentation, and analysis using aerial/satellite imagery. The codebase provides tools for training object detection models, processing orthomosaic images, and analyzing detection results for palm tree counting and monitoring.
+This repository contains a comprehensive system for palm tree detection, segmentation, and analysis using UAV imagery. The codebase provides tools for processing orthomosaic images, training object detection models, and analyzing detection results for palm tree counting and monitoring.
 
 ## 🌴 Dataset (DataPrepare)
 
